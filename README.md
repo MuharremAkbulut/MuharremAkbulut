@@ -1,4 +1,4 @@
-<img src="">
+<img src="githup_ana_sayfa.png">
 
 <h1 align="center">Hi, 👋 I'm Muharrem Akbulut</h1>
 
